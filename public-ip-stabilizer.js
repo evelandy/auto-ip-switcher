@@ -130,6 +130,4 @@ const ChangeARecord = (recordId, recordName, public_ip, gcc_cf_ip) => {
 }
 
 
-//ChangeARecord();
 ViewARecord();
-//Discrepant();
