@@ -1,0 +1,11 @@
+{
+  "name": "public-ip-stabilizer",
+  "version": "0.0.1",
+  "description": "checks the current server IP against the ip saved in cloudflare, if it is different it changes the ip in cloudflare to the current server ip, otherwise skips and waits for a pre-determined amount of time.",
+  "main": "public-ip-stabilizer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "William Griffin",
+  "license": "ISC"
+}
